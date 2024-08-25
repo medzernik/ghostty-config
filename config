@@ -1,0 +1,23 @@
+# Alternative good font
+font-family = "Berkeley Mono"
+window-title-font-family = "Berkeley Mono"
+adjust-cell-height = 15%
+font-size = 18.5
+
+# Cursor style
+cursor-style = bar
+
+# Window style
+background-opacity = 0.95
+background-blur-radius = 20
+window-step-resize = true
+window-height = 33
+window-width = 125
+
+# Stop copy on select
+copy-on-select = false
+
+# Enable ALT so it works
+macos-option-as-alt = true
+
+

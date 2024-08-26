@@ -2,7 +2,7 @@
 font-family = "Berkeley Mono"
 window-title-font-family = "Berkeley Mono"
 adjust-cell-height = 15%
-font-size = 18.5
+font-size = 13.5
 
 # Cursor style
 cursor-style = bar
@@ -11,8 +11,8 @@ cursor-style = bar
 background-opacity = 0.95
 background-blur-radius = 20
 window-step-resize = true
-window-height = 33
-window-width = 125
+window-height = 30
+window-width = 120
 
 # Stop copy on select
 copy-on-select = false

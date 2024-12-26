@@ -1,8 +1,8 @@
 # Alternative good font
-font-family = "Berkeley Mono"
-window-title-font-family = "Berkeley Mono"
+font-family = "TX-02"
+window-title-font-family = "TX-02"
 adjust-cell-height = 15%
-font-size = 13.5
+font-size = 14.5
 
 # Cursor style
 cursor-style = bar

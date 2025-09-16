@@ -1,16 +1,18 @@
 # Alternative good font
-font-family = "TX-02"
-window-title-font-family = "TX-02"
+font-family = "TX-02-Variable"
+window-title-font-family = "TX-02-Variable"
 adjust-cell-height = 15%
 font-size = 14.5
 
 # Cursor style
 cursor-style = bar
+command= /opt/homebrew/bin/nu
 
 # Window style
 background-opacity = 0.95
 background-blur-radius = 20
 window-step-resize = true
+theme = dark:"Catppuccin Frappe",light:"Catppuccin Latte"
 window-height = 30
 window-width = 120
 
@@ -19,5 +21,3 @@ copy-on-select = false
 
 # Enable ALT so it works
 macos-option-as-alt = true
-
-
